@@ -11,9 +11,9 @@ A related blog post:
 https://www.cyberark.com/resources/threat-research-blog/WhiteFAANG<full_name>  
 
 ## Usage
-Once you export your personal data to your laptop, edit the placeholder values to the full path of the export.
-Use pip install when needed to include required modules.
-Run the relevant code segment of the Jupyter Notebook.
+Once you export your personal data to your laptop, edit the placeholder values to the full path of the export.  
+Use `pip install` when needed to include required modules.  
+Run the relevant code segment of the Jupyter Notebook.  
 
 ## Contributing
 
