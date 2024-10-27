@@ -26,5 +26,5 @@ Copyright (c) 2024 CyberArk Software Ltd. All rights reserved
 This repository is licensed under Apache License 2.0 - see [`LICENSE`](LICENSE) for more details.
 
 ## Share Your Thoughts And Feedback
-For more comments, suggestions, or questions, you can contact Lior Yakim from CyberArk Labs.
+For more comments, suggestions, or questions, you can contact [Lior Yakim](https://www.linkedin.com/in/lior-yakim-79b100156/) from CyberArk Labs.
 You can find more projects developed by us at https://github.com/cyberark/.
