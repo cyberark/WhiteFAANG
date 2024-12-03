@@ -14,7 +14,7 @@ https://www.cyberark.com/resources/threat-research-blog/white-faang-devouring-yo
 Once you export your personal data to your laptop, replace the placeholder values with the full path of the export.  
 Use `pip install` to install any required modules when necessary.   
 Run the relevant code segment of the Jupyter Notebook.  
-The output demonstrates the expected format but contains randomized information (MAC addr, etc.)
+The output demonstrates the expected format but contains randomized information (MAC addr, etc.).
 
 ## Contributing
 
