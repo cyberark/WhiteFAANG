@@ -8,7 +8,7 @@ Google: https://takeout.google.com
 Meta: https://www.meta.com/help/quest/articles/accounts/privacy-information-and-settings/view-your-information-and-download-your-information  
 
 A related blog post:  
-https://www.cyberark.com/resources/threat-research-blog/WhiteFAANG<full_name>  
+https://www.cyberark.com/resources/threat-research-blog/white-faang-devouring-your-personal-data  
 
 ## Usage
 Once you export your personal data to your laptop, replace the placeholder values with the full path of the export.  
